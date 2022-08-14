@@ -1,6 +1,6 @@
 Considering a two-dimensional, incompressible, non-viscous and stationary flow.
 
-We need to determine the velocity vector field u = u(x, y), v = v(x, y), as well as the pathlines.
+We need to determine the velocity vector field u = u(x, y), v = v(x, y), as well as the stream function.
 
 The differential equation ruling this flow corresponds to a potential flow, id est:
 
