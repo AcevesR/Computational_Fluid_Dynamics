@@ -24,3 +24,5 @@ dy = 0.2,
 max error = 0.1
 
 We also need to graph the velocity vector field and stream function for each scheme.
+
+We need to compare the convergence ratio for each scheme, using for PSOR and LSOR different values for the relaxation parameter w. In this case, we need to use an initial distribution of Phi(i, j) = 0.
